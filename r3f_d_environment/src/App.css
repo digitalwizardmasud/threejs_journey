@@ -1,0 +1,9 @@
+.label > div{
+    background-color: #12d6c6;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    white-space: nowrap;
+    user-select: none;
+    position:absolute
+}
