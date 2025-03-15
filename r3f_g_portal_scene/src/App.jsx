@@ -6,7 +6,7 @@ import { Perf } from "r3f-perf";
 function App() {
   return (
     <Canvas
-    
+      flat
       gl={{
         toneMapping: THREE.ACESFilmicToneMapping,
         outputColorSpace: THREE.SRGBColorSpace,
